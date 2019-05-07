@@ -1,0 +1,28 @@
+.menu_head{
+    margin-top: 40px;
+    }
+.menu{
+        text-align: center;
+    }
+.menu_image{
+        height: 250px;
+    }   
+.food_image{
+        text-align: right;
+    }
+.items{
+        margin-top: 90px;
+        text-align: left;
+}
+.menu_div{
+        width: 700px;
+        background: rgba(250, 190, 88, 1);
+        margin-left: 600px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin-bottom: 70px;
+        margin-top: 40px;
+}
+.hr{
+    margin-top: 5px;
+}
