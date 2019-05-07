@@ -81,6 +81,7 @@ html, body {
 .restaurant{
     font-size: 60px;
     font-weight: bold;
+    padding-left: 15px;
 }
 .welcome{
     font-size: 40px;

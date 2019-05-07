@@ -1,8 +1,10 @@
 .about_us_header{
-                background: rgba(250, 190, 88, 1);
-                margin-top: 120px;
-                    padding-left: 20px;
-                padding-top: 20px;
+                    background: rgba(250, 190, 88, 0.7);
+                /* margin-top: 120px; */
+                padding-top: 51px;
+                padding-left: 20px;
+                color: white;
+                text-align: center;
             }
 .who{
         text-align: center;
@@ -11,3 +13,8 @@
 .body_card{
         margin-top: 50px;
         }
+
+.about_us_heading{
+        background: rgba(30, 15, 8, 0.4);
+    margin-top: 90px;
+}
