@@ -1,0 +1,66 @@
+.post_blog{
+	padding: 20px;
+
+}
+.post_title_head{
+	    margin-top: 20px;
+
+}
+.post_title_head_i{
+	    margin-top: 200px;
+
+}
+
+.image_blog{
+	height: 200px;
+	
+}
+.blog_desc{
+	width: 100%;
+}
+.float_left{
+	float: left;
+	width: 20%;
+}
+.float_right{
+	float: right;
+	width: 70%;
+	text-align: left;
+}
+.float_right_cmt{
+	float: right;
+	width: 20%;
+	color: white;
+	padding: 20px;
+	text-align: left;
+	background: rgba(67, 20, 11, 0.73);
+}
+.float_left_cmt{
+	float: left;
+	width: 70%;
+color: white;
+	text-align: left;
+	background: rgba(67, 20, 11, 0.73);
+	
+}
+.card_post{
+	   height: 300px !important;
+    width: 182px !important;
+}
+
+.blog_desc_item{
+	width: 100%;
+	margin-top: 100px;
+}
+.float_clear{
+	clear:both;
+}
+.hr{
+	border: 0.5px solid yellow;
+}
+.add_cat{
+	margin-top: 20px;
+}
+.cat_head{
+	text-align: center;
+}

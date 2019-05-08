@@ -8,6 +8,11 @@ use App\Http\Controllers\Controller;
 class DashboardController extends Controller
 {
     public function index() {
+    	return view('layout.master');
+    } 
+
+
+    public function home() {
     	return view('dashboard.index');
     }
 }

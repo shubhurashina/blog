@@ -1,5 +1,5 @@
-@extends('layout.master')
-@section('container')
+{{-- @extends('layout.master')
+@section('container') --}}
 	<div class="container-fluid gallery " >
 			<a class="gallery_head" href="#">Gallery</a>
 			
@@ -42,4 +42,4 @@
 			
 	</div>
 
-@endsection
+{{-- @endsection --}}

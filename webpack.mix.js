@@ -31,5 +31,6 @@ mix.scripts([
 		'resources/js/custom/reservation.js',
 		'resources/js/custom/location.js',
 		'resources/js/custom/blog.js',
+		'resources/js/custom/myajax.js',
 
 		],'public/js/master.js');

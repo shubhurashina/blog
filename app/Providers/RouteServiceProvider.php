@@ -84,6 +84,30 @@ class RouteServiceProvider extends ServiceProvider
              ->namespace($this->namespace.'\Gallery')
              ->group(base_path('routes/route_gallery.php'));
 
+         Route::middleware('web')
+             ->namespace($this->namespace.'\Reservation')
+             ->group(base_path('routes/route_reservation.php'));
+
+         Route::middleware('web')
+             ->namespace($this->namespace.'\Location')
+             ->group(base_path('routes/route_location.php'));
+
+        Route::middleware('web')
+             ->namespace($this->namespace.'\Blog')
+             ->group(base_path('routes/route_blog.php'));
+
+        Route::middleware('web')
+             ->namespace($this->namespace.'\Instagram')
+             ->group(base_path('routes/route_instagram.php'));
+
+        Route::middleware('web')
+             ->namespace($this->namespace.'\Facebook')
+             ->group(base_path('routes/route_facebook.php'));
+
+
+
+
+
 
     }
 

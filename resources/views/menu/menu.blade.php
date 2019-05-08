@@ -1,5 +1,5 @@
-@extends('layout.master')
-@section('container')
+{{-- @extends('layout.master')
+@section('container') --}}
 
 <div class="container-fluid menu">
 	
@@ -66,4 +66,4 @@
 	</div>
 </div>
 
-@endsection
+{{-- @endsection --}}

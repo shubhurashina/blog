@@ -8,6 +8,7 @@ use App\Http\Controllers\Controller;
 class AboutUsController extends Controller
 {
    public function index(){
-   	return view('about us.about');
+
+   		return view('about-us.about');
    }
 }
